@@ -1,1 +1,1 @@
-# PrepCourse-Henry
+Este es un proyecto de una prueba de cómo crear un repositorio y clonarlo a mi escritorio local.
